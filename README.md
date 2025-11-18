@@ -16,6 +16,8 @@ Esses são os principais benefícios do padrão Observer, tanto para o jogo cria
 - Podemos reutilizar Sujeitos e Observadores independentemente uns dos outros.
 - Alterações no Sujeito ou em um Observador não afetarão o outro, devido à sua ligação leve, desde que continuem a cumprir suas obrigações de implementar suas interfaces.
 
-Referências Bibliográficas
+
+
+**Referências Bibliográficas:**
 
 **FREEMAN, Eric; FREEMAN, Elisabeth.** *Use a Cabeça! Padrões de Projetos*. 2. ed. Rio de Janeiro: Alta Books, 2009. 496 p.
